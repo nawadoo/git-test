@@ -14,6 +14,7 @@ public class MainActivity extends Activity {
     
     //hello comment
     // comment 2
+    // comment 3
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         getMenuInflater().inflate(R.menu.activity_main, menu);
